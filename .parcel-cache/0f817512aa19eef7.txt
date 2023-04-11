@@ -31,7 +31,7 @@
 95D:\suman\wokplace_landing_page\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.js133246391955505678 0
 83D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\features\webcodecs.js133246391978035897 0
 92D:\suman\wokplace_landing_page\node_modules\source-map-support\browser-source-map-support.js133246391951753606 0
-34D:\suman\wokplace_landing_page\src133246408156557470 1
+34D:\suman\wokplace_landing_page\src133256768087079485 1
 75D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\regions\CF.js133246391965228124 0
 72D:\suman\wokplace_landing_page\node_modules\css-tree\lib\syntax\function133246391967744530 1
 50D:\suman\wokplace_landing_page\node_modules\@babel133246391945791102 1
@@ -48,7 +48,7 @@
 84D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\features\pdf-viewer.js133246391975569107 0
 75D:\suman\wokplace_landing_page\node_modules\weak-lru-cache\rollup.config.js133246391954744973 0
 58D:\suman\wokplace_landing_page\node_modules\.bin\json5.ps1133246392026295451 0
-35D:\suman\wokplace_landing_page\dist133256762189477616 1
+35D:\suman\wokplace_landing_page\dist133256768087079485 1
 87D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\features\web-animation.js133246391977996971 0
 53D:\suman\wokplace_landing_page\node_modules\is-number133246391953391236 1
 68D:\suman\wokplace_landing_page\node_modules\safe-buffer\package.json133246391952975319 0
@@ -67,7 +67,7 @@
 57D:\suman\wokplace_landing_page\node_modules\utility-types133246391958113711 1
 59D:\suman\wokplace_landing_page\node_modules\.bin\terser.cmd133246392026305475 0
 66D:\suman\wokplace_landing_page\node_modules\color-convert\index.js133246391953818128 0
-48D:\suman\wokplace_landing_page\package-lock.json133246403978164569 0
+48D:\suman\wokplace_landing_page\package-lock.json133256768087079485 0
 84D:\suman\wokplace_landing_page\node_modules\csso\lib\restructure\3-disjoinRuleset.js133246391954075220 0
 96D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\features\form-submit-attributes.js133246391972044406 0
 69D:\suman\wokplace_landing_page\node_modules\yaml\browser\parse-cst.js133246391958830381 0
@@ -88,7 +88,7 @@
 38D:\suman\wokplace_landing_page\src\css133246403856831453 1
 67D:\suman\wokplace_landing_page\node_modules\posthtml-render\license133246391952333644 0
 62D:\suman\wokplace_landing_page\node_modules\yaml\dist\types.js133246391960988000 0
-45D:\suman\wokplace_landing_page\src\index.html133256733759464291 0
+45D:\suman\wokplace_landing_page\src\index.html133256769432861072 0
 78D:\suman\wokplace_landing_page\node_modules\caniuse-lite\data\features\ruby.js133246391976243718 0
 65D:\suman\wokplace_landing_page\node_modules\domutils\package.json133246391957017887 0
 61D:\suman\wokplace_landing_page\node_modules\terser\lib\cli.js133246391959350992 0
@@ -4411,11 +4411,11 @@
 65D:\suman\wokplace_landing_page\dist\background_image.2fe67876.jpg133256762189477616 0
 57D:\suman\wokplace_landing_page\dist\facebook.b73698b5.svg133256762189165027 0
 53D:\suman\wokplace_landing_page\dist\index.18dbc454.js133256762189165027 0
-57D:\suman\wokplace_landing_page\dist\index.18dbc454.js.map133256762189321345 0
+57D:\suman\wokplace_landing_page\dist\index.18dbc454.js.map133256768087079485 0
 54D:\suman\wokplace_landing_page\dist\index.34df27b5.css133246402179495985 0
 58D:\suman\wokplace_landing_page\dist\index.34df27b5.css.map133246402179594007 0
 54D:\suman\wokplace_landing_page\dist\index.8c1c22dc.css133256762178093154 0
-58D:\suman\wokplace_landing_page\dist\index.8c1c22dc.css.map133256762178093154 0
+58D:\suman\wokplace_landing_page\dist\index.8c1c22dc.css.map133256768087079485 0
 62D:\suman\wokplace_landing_page\dist\orangeDiamond.7a371ad1.svg133256762189165027 0
 55D:\suman\wokplace_landing_page\dist\people.5391dc81.svg133256762178093154 0
 67D:\suman\wokplace_landing_page\dist\platformInterfaces.843b5234.svg133256762189321345 0
